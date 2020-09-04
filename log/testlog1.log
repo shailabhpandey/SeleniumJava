@@ -1,0 +1,16 @@
+2020-08-18 11:36:49,872 [main] INFO Log4jDemonstration - Setup method is started
+2020-08-18 11:36:49,881 [main] INFO Log4jDemonstration - Setup method is progress
+2020-08-18 11:36:49,882 [main] INFO Log4jDemonstration - This is my tet going on
+2020-08-18 11:36:49,896 [main] INFO Log4jDemonstration - login is started
+2020-08-18 11:36:49,897 [main] INFO Log4jDemonstration - login is progress
+2020-08-18 11:36:49,897 [main] INFO Log4jDemonstration - login is completed
+2020-08-18 11:36:49,898 [main] INFO Log4jDemonstration - login is passed
+2020-08-18 11:36:49,905 [main] INFO Log4jDemonstration - logout is completed
+2020-08-18 11:39:09,007 [main] INFO Log4jDemonstration - Setup method is started
+2020-08-18 11:39:09,015 [main] INFO Log4jDemonstration - Setup method is progress
+2020-08-18 11:39:09,018 [main] INFO Log4jDemonstration - This is my tet going on
+2020-08-18 11:39:09,031 [main] INFO Log4jDemonstration - login is started
+2020-08-18 11:39:09,032 [main] INFO Log4jDemonstration - login is progress
+2020-08-18 11:39:09,033 [main] INFO Log4jDemonstration - login is completed
+2020-08-18 11:39:09,034 [main] INFO Log4jDemonstration - login is passed
+2020-08-18 11:39:09,041 [main] INFO Log4jDemonstration - logout is completed

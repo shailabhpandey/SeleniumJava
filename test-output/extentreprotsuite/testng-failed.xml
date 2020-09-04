@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [extentreprotsuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="day21ExtentReports.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="logintest(failed)">
+    <classes>
+      <class name="day21ExtentReports.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="loginTest"/>
+          <include name="captureScreen"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- day21ExtentReports.LoginTest -->
+    </classes>
+  </test> <!-- logintest(failed) -->
+</suite> <!-- Failed suite [extentreprotsuite] -->
